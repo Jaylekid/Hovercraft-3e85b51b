@@ -1,0 +1,31 @@
+th {
+	border-style: solid;
+	padding: 42px;
+}
+td a{
+	border-style: solid;
+	padding: 42px;
+	display: block;
+	text-decoration: none;
+	color: inherit;
+	font-family: arial;
+	background-color: #A9A9A9;
+	cursor: help;
+}
+td a:hover {
+	background-color:  #808080;
+}
+.orange {
+	background-color: #FFA500;
+	color: #008000;
+	border-color: #000000;
+}
+.purple {
+	background-color: #800080;
+}
+.blue {
+	background-color: #0000FF;
+}
+.yellow {
+	background-color: #FFFF00;
+}
